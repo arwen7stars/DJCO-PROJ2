@@ -87,7 +87,17 @@ public class InGameMenu : MonoBehaviour {
     public void QuitGame()
     {
         Time.timeScale = 1;
+<<<<<<< HEAD
         SceneManager.LoadScene(0);
+=======
+        Movement.party = new List<GameObject>();
+        SceneManager.LoadScene(0);
+
+        int tmpSkillVal = StaticSettings.setSkillMargin();
+        skillbar.updateSkillMargin(tmpSkillVal);
+
+        bgm.updateBGMVolume(StaticSettings.volumeBGM);
+>>>>>>> 076e045... Corrected bug with back to menu
     }
 
     public bool isGameStopped()
