@@ -1,4 +1,4 @@
-# DJCO-Project2
+# One Man Band
 
 **One Man Band** is a music puzzle game to be played by a single player. The game is set in a nightmarish world full of evil musical instruments and nerve-wrecking puzzles that the player, as a conductor, must overcome with the help of his friendly musical instruments that can join the conductor’s party.
 
