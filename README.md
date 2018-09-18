@@ -6,4 +6,4 @@ This game currently has two fully implemented levels: the tutorial and level one
 
 Unity version used: Unity 2018.2.0b5
 
-To run the game on Unity, need to add **ProGrids** and **ProBuilder** from Asset Store
+To run the game on Unity, **ProGrids** and **ProBuilder** need to be added from the Asset Store
