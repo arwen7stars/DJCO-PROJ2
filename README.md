@@ -7,7 +7,8 @@
 
 This game currently has two fully implemented levels: the tutorial and level one. If you want to see videos, screenshots and some other information of this project on my personal website, click [here](https://arwen7stars.github.io/pages/one-man-band.html "One Man Band").
 
-Unity version used: Unity 2018.2.0b5
+**Unity version**: Unity 2018.2.0b5
+
 To build/run the project on Unity, **ProGrids** and **ProBuilder** need to be added from the Asset Store
 
 ## Documentation
